@@ -25,7 +25,7 @@
 <br><br><br>
 <p>  I’m studying Software Engineering and have been diving into the world of IT since 2020.<br> I’m all about exploring new ways to learn and getting acquainted with fresh programming languages. </p>
 </div>
-<br><br><br><br><br>
+<br><br>
 
 
 <h1 align="center"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h1>
