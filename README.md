@@ -1,6 +1,6 @@
 <body>
     <center>
-<h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
+<h1 align="center"><img height="20px" src="https://media.tenor.com/qRxtUsuzzAMAAAAi/penguin-pengu.gif"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 <img height="20px" src="https://media.tenor.com/qRxtUsuzzAMAAAAi/penguin-pengu.gif"> </h1>
 <br>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-<h1 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+<h1 align="center"> <img height="30px" src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 <img height="30px" src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif"> </h1>
     <div align="center">
 <img height = "200cm" src = "https://i.pinimg.com/originals/1a/60/19/1a60192889128ab7f0e2fd9e5ea97557.gif" align="right">
     </div>
@@ -25,10 +25,10 @@
 <br><br><br>
 <p align="justify">  I’m studying Software Engineering <br> and have been diving into the world of IT since 2020. <br> I’m all about exploring new ways to learn and getting <br>acquainted with fresh programming languages. </p>
 </div>
-<br><br>
 
 
-<h1 align="center"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h1>
+
+<h1 align="center"> <img height="20px" src="https://media.tenor.com/hqHvXd2lmT4AAAAi/thinking.gif"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 <img height="20px" src="https://media.tenor.com/hqHvXd2lmT4AAAAi/thinking.gif"> </h1>
 
 <div align="center">
     <img height = "200cm" src="https://37.media.tumblr.com/0385a16152d2a9d2943cf56ce1a1b2b4/tumblr_n7ra9mFJVg1ra9nf0o1_500.gif" align="right">
@@ -46,12 +46,17 @@
 
 </div>
 <br><br><br>
-<h1 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
+<h1 align="center"><img height="20px" src="https://media.tenor.com/0W1y5vl1nDcAAAAi/hello-kitty.gif"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 <img height="20px" src="https://media.tenor.com/0W1y5vl1nDcAAAAi/hello-kitty.gif"> </h1>
 <br>
 
 <div align="center">
     <img src="https://media.tenor.com/BZKyV5_iZM4AAAAM/cat-anime.gif">
 </div>
-</body>
+
+<div align="center">
+    <a href ="https://www.instagram.com/leogoemann/" target="_blank"><img height="20px" src="https://www.iconpacks.net/icons/2/free-instagram-logo-icon-3497-thumb.png" target="_blank"></a>
+    <a href = ""target="_blank"><img height="20px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"target="_blank"></a>
+
+</div>
 
 </center>
