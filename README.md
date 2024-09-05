@@ -55,7 +55,7 @@
 
 <div align="center">
     <a href ="https://www.instagram.com/leogoemann/" target="_blank"><img height="20px" src="https://www.iconpacks.net/icons/2/free-instagram-logo-icon-3497-thumb.png" target="_blank"></a>
-    <a href = ""target="_blank"><img height="20px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/leonardo-santana-5b36a9266/"target="_blank"><img height="20px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"target="_blank"></a>
 
 </div>
 
