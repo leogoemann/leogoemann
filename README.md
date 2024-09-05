@@ -16,10 +16,12 @@
     <div align="center">
 <img height = "200cm" src = "https://i.pinimg.com/originals/1a/60/19/1a60192889128ab7f0e2fd9e5ea97557.gif" align="right">
     </div>
+<div align="justify">
 <li> <b> Name: </b> Leonardo</li>
 <li> <b> Loves: </b> games, music, animals</li>
 <li> <b> Gender: </b> he/him/Male</li>
 <li> <b> Hobbys: </b> Nerd Stuff, Web Development, Automation</li>
+</div>
 <br><br><br>
 <p>  I’m studying Software Engineering and have been diving into the world of IT since 2020.<br> I’m all about exploring new ways to learn and getting acquainted with fresh programming languages. </p>
 </div>
