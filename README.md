@@ -18,9 +18,9 @@
     </div>
 <div align="justify">
 <li> <b> Name: </b> Leonardo</li>
-<li> <b> Loves: </b> games, music, animals</li>
-<li> <b> Gender: </b> he/him/Male</li>
-<li> <b> Hobbys: </b> Nerd Stuff, Web Development, Automation</li>
+<li> <b> Loves: </b> Games, music, animals</li>
+<li> <b> Gender: </b> he/him - Male</li>
+<li> <b> Hobbys: </b> Technology, Web Development, Automation</li>
 </div>
 <br><br><br>
 <p align="justify">  I’m studying Software Engineering <br> and have been diving into the world of IT since 2020. <br> I’m all about exploring new ways to learn and getting <br>acquainted with fresh programming languages. </p>
