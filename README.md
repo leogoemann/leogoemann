@@ -19,7 +19,7 @@
 <div align="justify">
 <li> <b> Name: </b> Leonardo</li>
 <li> <b> Loves: </b> Games, music, animals</li>
-<li> <b> Gender: </b> he/him - Male</li>
+<li> <b> Gender: </b> He/him - Male</li>
 <li> <b> Hobbys: </b> Technology, Web Development, Automation</li>
 </div>
 <br><br><br>
