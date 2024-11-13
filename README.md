@@ -17,7 +17,7 @@
 <img height = "200cm" src = "https://i.pinimg.com/originals/1a/60/19/1a60192889128ab7f0e2fd9e5ea97557.gif" align="right">
     </div>
 <div align="justify">
-<li> <b> Name: </b> Leonardo</li>
+<li> <b> Name: </b> Leonardo Goemann Santana</li>
 <li> <b> Loves: </b> Games, music, animals</li>
 <li> <b> Gender: </b> He/him - Male</li>
 <li> <b> Hobbys: </b> Technology, Web Development, Automation</li>
