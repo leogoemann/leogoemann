@@ -31,15 +31,33 @@ status:  studying Software Engineering
 
 ## `// SKILL_MATRIX`
 
+<sub><code>LANGUAGES</code></sub><br>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050812?style=for-the-badge&logo=javascript&logoColor=f7e94b">
+<img alt="Python" src="https://img.shields.io/badge/Python-050812?style=for-the-badge&logo=python&logoColor=19f0ff">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-050812?style=for-the-badge&logo=ruby&logoColor=ff2a8a">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-050812?style=for-the-badge&logo=php&logoColor=19f0ff">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-050812?style=for-the-badge&logo=rust&logoColor=ff2a8a">
+<img alt="C++" src="https://img.shields.io/badge/C++-050812?style=for-the-badge&logo=cplusplus&logoColor=f7e94b">
 <br>
-
-<img alt="html" src="https://img.shields.io/badge/HTML5-050812?style=for-the-badge&logo=html5&logoColor=ff2a8a">
-<img alt="css" src="https://img.shields.io/badge/CSS3-050812?style=for-the-badge&logo=css3&logoColor=19f0ff">
-<img alt="python" src="https://img.shields.io/badge/Python-050812?style=for-the-badge&logo=python&logoColor=f7e94b">
+<sub><code>WEB &amp; FRAMEWORKS</code></sub><br>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-050812?style=for-the-badge&logo=html5&logoColor=ff2a8a">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-050812?style=for-the-badge&logo=css3&logoColor=19f0ff">
+<img alt="Rails" src="https://img.shields.io/badge/Rails-050812?style=for-the-badge&logo=rubyonrails&logoColor=ff2a8a">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-050812?style=for-the-badge&logo=vite&logoColor=f7e94b">
+<img alt="Tauri" src="https://img.shields.io/badge/Tauri-050812?style=for-the-badge&logo=tauri&logoColor=19f0ff">
 <br>
-<img alt="c" src="https://img.shields.io/badge/C-050812?style=for-the-badge&logo=c&logoColor=19f0ff">
-<img alt="c++" src="https://img.shields.io/badge/C++-050812?style=for-the-badge&logo=cplusplus&logoColor=ff2a8a">
-<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-050812?style=for-the-badge&logo=adobephotoshop&logoColor=f7e94b">
+<sub><code>DATA, AI &amp; IOT</code></sub><br>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-050812?style=for-the-badge&logo=postgresql&logoColor=19f0ff">
+<img alt="Ollama" src="https://img.shields.io/badge/Ollama-050812?style=for-the-badge&logo=ollama&logoColor=ff2a8a">
+<img alt="n8n" src="https://img.shields.io/badge/n8n-050812?style=for-the-badge&logo=n8n&logoColor=ff2a8a">
+<img alt="Arduino / ESP" src="https://img.shields.io/badge/ESP32_IoT-050812?style=for-the-badge&logo=espressif&logoColor=f7e94b">
+<br>
+<sub><code>TOOLS &amp; SYSTEM</code></sub><br>
+<img alt="Linux" src="https://img.shields.io/badge/Arch_Linux-050812?style=for-the-badge&logo=archlinux&logoColor=19f0ff">
+<img alt="Git" src="https://img.shields.io/badge/Git-050812?style=for-the-badge&logo=git&logoColor=ff2a8a">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-050812?style=for-the-badge&logo=docker&logoColor=19f0ff">
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-050812?style=for-the-badge&logo=adobephotoshop&logoColor=f7e94b">
+<br>
 
 <br><br>
 
