@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff2a8a" stop-opacity="0"/><stop offset=".5" stop-color="#19f0ff"/><stop offset="1" stop-color="#ff2a8a" stop-opacity="0"/></linearGradient>
+  <style>.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style></defs>
+  <rect x="0" y="11" width="900" height="2" fill="url(#l)"/>
+  <path class="p" d="M440 12l10-8 10 8-10 8z" fill="#f7e94b"/>
+</svg>

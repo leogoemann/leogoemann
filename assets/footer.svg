@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <defs><style>.t{font-family:'Courier New',monospace;font-weight:bold}.b{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style></defs>
+  <rect width="900" height="80" fill="#050812"/>
+  <path d="M0 2H900M0 78H900" stroke="#ff2a8a" stroke-width="2"/>
+  <text x="450" y="38" class="t" font-size="22" text-anchor="middle" fill="#19f0ff">&gt; THANKS FOR READING</text>
+  <text x="450" y="62" class="t" font-size="14" text-anchor="middle" fill="#f7e94b">connection terminated<tspan class="b" fill="#ff2a8a"> _</tspan></text>
+</svg>
