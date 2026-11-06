@@ -28,7 +28,7 @@
 
 <a href="#"><img src="assets/title-channels.svg" width="100%" alt="OPEN CHANNELS"></a>
 
-<a href="https://www.instagram.com/leogoemann/"><img src="assets/btn-instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/leonardo-santana-5b36a9266/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/leogoemann/"><img src="assets/btn-instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
 
 <a href="#"><img src="assets/footer.svg" width="100%" alt="connection closed"></a>
 
