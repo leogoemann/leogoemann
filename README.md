@@ -6,9 +6,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/status-online-19f0ff?style=flat-square&labelColor=050812" alt="status"></a> <a href="#"><img src="https://img.shields.io/badge/class-netrunner-ff2a8a?style=flat-square&labelColor=050812" alt="class"></a> <a href="#"><img src="https://img.shields.io/badge/since-2020-f7e94b?style=flat-square&labelColor=050812" alt="since"></a>
 
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// ABOUT_ME`
+<a href="#"><img src="assets/title-about.svg" width="100%" alt="ABOUT ME"></a>
 
 </div>
 
@@ -18,9 +16,7 @@
 > and getting acquainted with fresh programming languages.
 
 <div align="center">
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// SKILL_MATRIX`
+<a href="#"><img src="assets/title-skills.svg" width="100%" alt="SKILL MATRIX"></a>
 
 <sub><code>LANGUAGES</code></sub><br>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050812?style=flat-square&logo=javascript&logoColor=f7e94b"></a>
@@ -57,18 +53,14 @@
 Those years made me fall even more in love with technology.<br>
 Since then, I've been honing my skills in various programming languages.</sub>
 
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// CURRENT_PROJECT`
+<a href="#"><img src="assets/title-project.svg" width="100%" alt="CURRENT PROJECT"></a>
 
 </div>
 
 <div align="center"><a href="#"><img src="assets/project.svg" width="100%" alt="project"></a></div>
 
 <div align="center">
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// POKE_PANDORA`
+<a href="#"><img src="assets/title-poke.svg" width="100%" alt="POKE PANDORA"></a>
 
 <sub>she reacts to what you do. click a mood.</sub>
 
@@ -207,9 +199,7 @@ Since then, I've been honing my skills in various programming languages.</sub>
 
 <br>
 
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// ASK_PANDORA`
+<a href="#"><img src="assets/title-ask.svg" width="100%" alt="ASK PANDORA"></a>
 
 <sub>click a question.</sub>
 
@@ -241,9 +231,7 @@ Since then, I've been honing my skills in various programming languages.</sub>
 
 <div align="center">
 
-<a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
-
-## `// OPEN_CHANNELS`
+<a href="#"><img src="assets/title-channels.svg" width="100%" alt="OPEN CHANNELS"></a>
 
 <a href="https://www.instagram.com/leogoemann/"><img src="https://img.shields.io/badge/INSTAGRAM-050812?style=flat-square&logo=instagram&logoColor=ff2a8a" alt="Instagram"></a>
 
