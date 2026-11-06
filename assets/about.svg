@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="214" viewBox="0 0 900 214">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8e1235"/><stop offset=".5" stop-color="#c2185b"/><stop offset="1" stop-color="#6a1b9a"/></linearGradient>
+    <radialGradient id="bg" cx=".5" cy=".36" r=".75"><stop offset="0" stop-color="#3a0614"/><stop offset=".6" stop-color="#1c030d"/><stop offset="1" stop-color="#07040d"/></radialGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#c2183f" stroke-opacity=".1"/></pattern>
+    <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".34"/></pattern>
+    <filter id="red" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0.25 0.82 0.08 0 0  0.015 0.05 0.005 0 0  0.05 0.17 0.017 0 0  0 0 0 1 0"/></filter>
+    <filter id="cy" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.02  0.2 0.7 0.07 0 0  0.25 0.85 0.09 0 0  0 0 0 .9 0"/></filter>
+    <filter id="mg" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0.3 1.0 0.1 0 0  0.04 0.12 0.01 0 0  0.12 0.4 0.04 0 0  0 0 0 .9 0"/></filter>
+    <clipPath id="cp"><polygon points="1.5,1.5 875.5,1.5 898.5,24.5 898.5,212.5 24.5,212.5 1.5,189.5"/></clipPath>
+    <style>
+      .t{font-family:'JetBrains Mono','Courier New',monospace;font-weight:bold}
+      .gl{animation:gl 3.7s steps(1) infinite}
+      @keyframes gl{0%,90%,100%{transform:translate(0,0)}91%{transform:translate(-5px,0)}93%{transform:translate(4px,0)}95%{transform:translate(-2px,1px)}}
+      .pi{animation:pi 5s steps(1) infinite} @keyframes pi{0%,100%{opacity:1}71%{opacity:.4}73%{opacity:1}}
+    </style>
+  </defs>
+  <polygon points="0,0 876,0 900,24 900,214 24,214 0,190" fill="url(#bd)"/>
+  <g clip-path="url(#cp)">
+    <polygon points="1.5,1.5 875.5,1.5 898.5,24.5 898.5,212.5 24.5,212.5 1.5,189.5" fill="url(#bg)"/>
+    <rect width="900" height="214" fill="url(#grid)"/>
+    <text x="26" y="66" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">name:    </tspan><tspan fill="#d8f8ff">Leonardo Goemann Santana</tspan></text><text x="26" y="90" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">alias:   </tspan><tspan fill="#d8f8ff">leogoemann</tspan></text><text x="26" y="114" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">pronoun: </tspan><tspan fill="#d8f8ff">he/him</tspan></text><text x="26" y="138" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">loves:   </tspan><tspan fill="#6a5a8a">[</tspan><tspan fill="#00ff9c">games</tspan><tspan fill="#6a5a8a">, </tspan><tspan fill="#00ff9c">music</tspan><tspan fill="#6a5a8a">, </tspan><tspan fill="#00ff9c">animals</tspan><tspan fill="#6a5a8a">]</tspan></text><text x="26" y="162" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">hobbies: </tspan><tspan fill="#6a5a8a">[</tspan><tspan fill="#00ff9c">technology</tspan><tspan fill="#6a5a8a">, </tspan><tspan fill="#00ff9c">web development</tspan><tspan fill="#6a5a8a">, </tspan><tspan fill="#00ff9c">automation</tspan><tspan fill="#6a5a8a">]</tspan></text><text x="26" y="186" class="t" font-size="14" xml:space="preserve"><tspan fill="#05d9e8">status:  </tspan><tspan fill="#ffd300">studying Software Engineering</tspan></text>
+    <g class="pi"><rect width="900" height="214" fill="url(#scan)"/>
+      <path d="M14 34h14M14 34v14M886 184h-14M886 184v-14" stroke="#c2183f" fill="none"/>
+      <rect y="-4" width="900" height="2" fill="#c2183f" fill-opacity=".65"><animate attributeName="y" from="-4" to="214" dur="3.4s" repeatCount="indefinite"/></rect></g>
+  </g>
+  <rect x="12" y="8" width="192.3" height="18" fill="#07040d" fill-opacity=".85"/>
+  <text x="18" y="21" class="t" font-size="11" letter-spacing="1.2" fill="#05d9e8">root@PANDORA // ABOUT</text>
+</svg>

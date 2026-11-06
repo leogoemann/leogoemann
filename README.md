@@ -12,14 +12,7 @@
 
 </div>
 
-```yaml
-name:    Leonardo Goemann Santana
-alias:   leogoemann
-pronoun: he/him
-loves:   [games, music, animals]
-hobbies: [technology, web development, automation]
-status:  studying Software Engineering
-```
+<div align="center"><a href="#"><img src="assets/about.svg" width="100%" alt="about"></a></div>
 
 > I've been diving into the world of IT since **2020**. I'm all about exploring new ways to learn
 > and getting acquainted with fresh programming languages.
@@ -70,10 +63,7 @@ Since then, I've been honing my skills in various programming languages.</sub>
 
 </div>
 
-```text
-> PANDORA   desktop AI companion, 100% local (Tauri + Ollama)
-> STATUS    in development
-```
+<div align="center"><a href="#"><img src="assets/project.svg" width="100%" alt="project"></a></div>
 
 <div align="center">
 <a href="#"><img src="assets/divider.svg" width="100%" alt=""></a>
@@ -84,69 +74,136 @@ Since then, I've been honing my skills in various programming languages.</sub>
 
 <br>
 
-<table align="center"><tr>
-<td align="center" valign="top">
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>HAPPY</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/happy.webp" height="180" alt="HAPPY"></a><br>
+<a href="#"><img src="assets/mood-happy.svg" width="240" alt="HAPPY"></a><br>
 <sub><i>"Don't get used to it. I'm only smiling because your code compiled."</i></sub>
 </details>
 
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>SMUG</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/smug.webp" height="180" alt="SMUG"></a><br>
+<a href="#"><img src="assets/mood-smug.svg" width="240" alt="SMUG"></a><br>
 <sub><i>"Yeah, I know I'm good. You don't have to look that impressed."</i></sub>
 </details>
 
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>ANGRY</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/angry.webp" height="180" alt="ANGRY"></a><br>
+<a href="#"><img src="assets/mood-angry.svg" width="240" alt="ANGRY"></a><br>
 <sub><i>"Say that again. I dare you."</i></sub>
 </details>
 
 </td>
-</tr><tr>
-<td align="center" valign="top">
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>EMBARRASSED</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/embarrassed.webp" height="180" alt="EMBARRASSED"></a><br>
+<a href="#"><img src="assets/mood-embarrassed.svg" width="240" alt="EMBARRASSED"></a><br>
 <sub><i>"I-it's not like I care what you think! Stop staring!"</i></sub>
 </details>
 
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>SLEEPY</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/sleepy.webp" height="180" alt="SLEEPY"></a><br>
+<a href="#"><img src="assets/mood-sleepy.svg" width="240" alt="SLEEPY"></a><br>
 <sub><i>"It's 3 a.m. and you're still coding? ...Fine. I'll stay up too."</i></sub>
 </details>
 
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 <details>
 <summary><b>SCARED</b></summary>
 <br>
-<a href="#"><img src="assets/pandora/scared.webp" height="180" alt="SCARED"></a><br>
+<a href="#"><img src="assets/mood-scared.svg" width="240" alt="SCARED"></a><br>
 <sub><i>"Did you just run rm -rf on something?! Tell me you didn't."</i></sub>
 </details>
 
 </td>
-</tr></table>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>SAD</b></summary>
+<br>
+<a href="#"><img src="assets/mood-sad.svg" width="240" alt="SAD"></a><br>
+<sub><i>"Nobody asked how my day was. ...Not that I wanted you to."</i></sub>
+</details>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>SURPRISED</b></summary>
+<br>
+<a href="#"><img src="assets/mood-surprised.svg" width="240" alt="SURPRISED"></a><br>
+<sub><i>"Wait, WHAT?! You pushed to main without testing?!"</i></sub>
+</details>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>LAUGH</b></summary>
+<br>
+<a href="#"><img src="assets/mood-laugh.svg" width="240" alt="LAUGH"></a><br>
+<sub><i>"Hahaha! That bug was so dumb I can't even be mad."</i></sub>
+</details>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>ANNOYED</b></summary>
+<br>
+<a href="#"><img src="assets/mood-annoyed.svg" width="240" alt="ANNOYED"></a><br>
+<sub><i>"You asked the same thing three times. I heard you."</i></sub>
+</details>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>WINK</b></summary>
+<br>
+<a href="#"><img src="assets/mood-wink.svg" width="240" alt="WINK"></a><br>
+<sub><i>"Between us: your secret's safe with me. Mostly."</i></sub>
+</details>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<details>
+<summary><b>THINKING</b></summary>
+<br>
+<a href="#"><img src="assets/mood-thinking.svg" width="240" alt="THINKING"></a><br>
+<sub><i>"Hold on, I'm processing. Don't rush me."</i></sub>
+</details>
+
+</td>
+</tr>
+</table>
 
 <br>
 
